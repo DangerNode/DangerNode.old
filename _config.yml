@@ -4,3 +4,5 @@ permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
 baseurl: ""
 url: "https://dangernode.github.io/"
+twitter_username: DangerNode
+github_username: DangerNode
