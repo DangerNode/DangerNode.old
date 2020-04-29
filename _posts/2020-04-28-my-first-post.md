@@ -1,4 +1,3 @@
-2014-04-18 11:30:00 +0800
 ---
 layout: post
 title: "DangerNode Launches second site"
