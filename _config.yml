@@ -1,8 +1,12 @@
-name: DangerNode's Cyber Security Blog
+# Site settings
+title: DangerNode's Cyber Security Blog
+description: > A cyber security blog. 
+
+# Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: jekyll-theme-cayman
+theme: minima
 baseurl: ""
-url: "https://dangernode.github.io/"
+url: "https://dangernode.github.io"
 twitter_username: DangerNode
 github_username: DangerNode
