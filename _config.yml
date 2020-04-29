@@ -3,4 +3,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
 baseurl: ""
-url: "https://dangernode.github.io"
+url: "https://dangernode.github.io/"
