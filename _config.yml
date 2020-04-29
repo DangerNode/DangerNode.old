@@ -1,7 +1,7 @@
 # Site settings
 title: DangerNode's Cyber Security Blog
-description: > A cyber security blog. 
-
+description: > 
+  A cyber security blog. 
 # Build settings
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
